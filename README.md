@@ -19,6 +19,7 @@ Also works with World of Warcraft or any other game with an Enter-to-chat box.
 - [Build a standalone .exe](#build-a-standalone-exe)
 - [Settings](#settings)
 - [Troubleshooting](#troubleshooting)
+- [License](#license)
 - [Disclaimer](#disclaimer)
 
 ## How it works
@@ -152,6 +153,10 @@ Settings save automatically to `%APPDATA%\VoiceChat\settings.json`.
 - **Another app also uses Caps Lock** (Wispr Flow, for example). Change the activation key, or close the other app while playing.
 - **The status dot stays gray.** The speech model is still downloading on first launch; give it a few minutes.
 - **Last word gets cut off.** Keep holding the key until you finish speaking.
+
+## License
+
+[MIT](LICENSE): free to use, modify and share, including in your own projects. Keep the copyright notice.
 
 ## Disclaimer
 
